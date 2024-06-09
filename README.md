@@ -4,6 +4,8 @@ For the Programming Test, I have spent about 4 hours to write, test and debug th
 
 For the SQL Improvement Logic Test, 3 hours has been spent for it.
 
+To access the MySQL database use `root` as username and `root123` as password.
+
 Explanation on the SQL Improvement Logic test:
 Instead of altering the given SQL statement, I turned my focus towards tuning the tables characteristics in the database. Below are what I have done to achieve the performance gain needed;
 
